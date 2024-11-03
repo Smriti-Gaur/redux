@@ -9,6 +9,7 @@ import counterReducer from "../features/counter/counterSlice";
 
 // inside the configureStore we have the objects which have the collection
 // of the slices 
+// testing here reljaldjfla flajdfladjf 
 
 export const store=configureStore({
     // we put here the reducer here what we create
